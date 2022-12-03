@@ -5,6 +5,5 @@ function prime(Num){
             count++;
         }
     }
-    count==2?console.log("Prime"):console.log("Not prime")
 }
-prime(13)
+prime(19)
